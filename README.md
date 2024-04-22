@@ -1,3 +1,6 @@
+
+![](https://github.com/drakon2810/MoneyCash/blob/main/frontend/src/logo.png)
+
 # Project Title: Payment System
 
 ## Description
